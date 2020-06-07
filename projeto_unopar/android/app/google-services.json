@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "586931442782",
+    "firebase_url": "https://zero-dengue.firebaseio.com",
+    "project_id": "zero-dengue",
+    "storage_bucket": "zero-dengue.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586931442782:android:112942af46aab637e3d0cf",
+        "android_client_info": {
+          "package_name": "com.example.projeto_unopar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586931442782-t1s1o9skravfeqe45cfok9qdkp2n5hj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ_xHwmZgXmBEYSeitUbKh8UO6htkkTfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586931442782-t1s1o9skravfeqe45cfok9qdkp2n5hj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
